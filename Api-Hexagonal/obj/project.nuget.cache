@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "441M/5lPKgY=",
+  "dgSpecHash": "FyB2y7e83WE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaike\\source\\repos\\Api-Hexagonal\\Api-Hexagonal\\Api-Hexagonal.csproj",
+  "projectFilePath": "C:\\Users\\kaike\\OneDrive\\Documentos\\GitHub\\API-Hexagonal\\Api-Hexagonal\\Api-Hexagonal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaike\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\kaike\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

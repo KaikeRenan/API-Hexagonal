@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api-Hexagonal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+751873592b3fbb0685b056f2ac16381e2b907204")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api-Hexagonal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api-Hexagonal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

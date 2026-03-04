@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kaike\\source\\repos\\Api-Hexagonal\\Api-Hexagonal\\Api-Hexagonal.csproj": {}
+    "C:\\Users\\kaike\\OneDrive\\Documentos\\GitHub\\API-Hexagonal\\Api-Hexagonal\\Api-Hexagonal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kaike\\source\\repos\\Api-Hexagonal\\Api-Hexagonal\\Api-Hexagonal.csproj": {
+    "C:\\Users\\kaike\\OneDrive\\Documentos\\GitHub\\API-Hexagonal\\Api-Hexagonal\\Api-Hexagonal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kaike\\source\\repos\\Api-Hexagonal\\Api-Hexagonal\\Api-Hexagonal.csproj",
+        "projectUniqueName": "C:\\Users\\kaike\\OneDrive\\Documentos\\GitHub\\API-Hexagonal\\Api-Hexagonal\\Api-Hexagonal.csproj",
         "projectName": "Api-Hexagonal",
-        "projectPath": "C:\\Users\\kaike\\source\\repos\\Api-Hexagonal\\Api-Hexagonal\\Api-Hexagonal.csproj",
+        "projectPath": "C:\\Users\\kaike\\OneDrive\\Documentos\\GitHub\\API-Hexagonal\\Api-Hexagonal\\Api-Hexagonal.csproj",
         "packagesPath": "C:\\Users\\kaike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kaike\\source\\repos\\Api-Hexagonal\\Api-Hexagonal\\obj\\",
+        "outputPath": "C:\\Users\\kaike\\OneDrive\\Documentos\\GitHub\\API-Hexagonal\\Api-Hexagonal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
